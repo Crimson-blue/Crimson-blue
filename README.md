@@ -3,12 +3,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6AF7EB&center=true&vCenter=true&width=500&lines=Welcome+to+My+Personal+Repository" alt="Typing SVG" />
 </p>
+
 ---
 
 ### 🚀 About Me
-- I am currently a Btech student in LPU
-- Learning as a Cybersecurity student
-- I like Tech and new stuff
+- 🎓 I am currently a **B.Tech student at LPU**
+- 🔐 Studying **Cybersecurity**
+- 💡 I like **Tech** and exploring new stuff
 
 ---
 
@@ -38,6 +39,13 @@
 
 ---
 
+### 🐍 Contribution Snake
 <p align="center">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2gwa3dnM2E5b2Y3ZmVicTUxaDRhdTZheXFiajh4MGVoZWJraGRheSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif)" width="400" alt="Coding GIF">
+  <img src="https://raw.githubusercontent.com/Crimson-blue/Crimson-blue/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="400" alt="Coding GIF">
 </p>
