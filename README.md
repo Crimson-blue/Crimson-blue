@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 - 🎓 I am currently a **B.Tech student at LPU**
-- 🔐 Studying **Cybersecurity**
+- 🔐 Studying **Cybersecurity and Blockchain**
 - 💡 I like **Tech** and exploring new stuff
 
 ---
